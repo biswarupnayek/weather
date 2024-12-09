@@ -72,7 +72,7 @@
                   throw new Error('Failed to fetch weather data')
                 }
                 const data = await response.json()
-                  console.log(data)
+                  
                 displayWeather(data)
               } catch (error) {
                 console.error(error)
