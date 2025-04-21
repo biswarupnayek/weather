@@ -52,6 +52,7 @@
     <a href="Screenshot 2025-04-16 112454.png" onclick="showPage('maps')">Maps</a>
     <a href="https://thewire.in/environment/deaths-destruction-india-climate-report-2024-grim-statistics" onclick="showPage('alerts')">Alerts</a>
     <a href="about.html" onclick="showPage('about')">About</a>
+    <a href="contactus.html">CONTACT US</a>
     
   </nav>
   
